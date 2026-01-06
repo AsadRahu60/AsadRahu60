@@ -37,21 +37,37 @@ My strength lies in **system-level thinking** — validating behavior, testing i
 
 ---
 
+## 🛠 Technical Stack
+**Languages:** Python, C/C++, Bash  
+**Frameworks & Tools:** ROS2, PyTest, Playwright, Postman  
+**Systems:** Linux, Embedded Linux basics  
+**Domains:** Embedded Systems, Robotics, QA / Validation
+
+---
+
 ## 🚀 Featured Engineering Projects
-🔹 **Eye-Adaptive Lens System**  
-Embedded control & system validation of electronically tunable lenses.
+### 🔹 Eye-Adaptive Lens System
+Electronically tunable embedded system prototype  
+- Embedded control logic  
+- Configuration profiles  
+- System validation & fault handling  
 
-🔹 **Sensor Fusion System (ROS2)**  
-IMU + LiDAR integration with safety monitoring
+### 🔹 Sensor Fusion System (ROS2)
+IMU + LiDAR sensor integration with safety monitoring  
+- Modular ROS2 architecture  
+- Sensor validation  
+- Safety monitoring node  
 
-🔹 **QA & Testing Portfolio**  
-API tests, E2E tests, and embedded validation experiments
+### 🔹 QA & Testing Portfolio (Ongoing)
+- API quality checks (Python)  
+- End-to-end system tests  
+- Embedded validation experiments  
 
 ---
 
 ## 🎓 Currently Improving
-- ISTQB Foundation Level  
-- Embedded & Robotics system validation  
+- ISTQB Foundation Level (testing fundamentals)
+- Embedded & Robotics system validation
 - Structured test documentation (German QA standards)
 
 ---
@@ -64,5 +80,5 @@ API tests, E2E tests, and embedded validation experiments
 ---
 
 ## 📫 Contact
-📧 **asadullahrahoo1998@gmail.com**  
-💼 **https://github.com/AsadRahu60**
+📧 asadullahrahoo1998@gmail.com  
+💼 GitHub: https://github.com/AsadRahu60
