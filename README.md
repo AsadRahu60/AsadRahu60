@@ -3,6 +3,13 @@
 🎯 **Junior Test / Validation Engineer (Embedded, Robotics & Software)**  
 📍 Germany | Open to Junior & Entry-Level Roles
 
+![Python](https://img.shields.io/badge/Python-Programming-blue)
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-Embedded%20Systems-darkgreen)
+![Embedded](https://img.shields.io/badge/Embedded-Systems-orange)
+![Robotics](https://img.shields.io/badge/Robotics-ROS2-purple)
+![Testing](https://img.shields.io/badge/Software-Testing-red)
+![QA](https://img.shields.io/badge/Quality-Assurance-critical)
+
 ---
 
 ## 👨‍🔧 Professional Profile
