@@ -1,60 +1,70 @@
 # 👋 Hi, I’m Asadullah Rahoo (@AsadRahu60)
 
-🎯 **Junior QA / Software Tester | Embedded & Robotics Enthusiast**  
-📍 Germany | Open to Entry-Level & Junior Roles
+🎯 **Junior Test / Validation Engineer (Embedded, Robotics & Software)**  
+📍 Germany | Open to Junior & Entry-Level Roles
 
 ---
 
-## 👨‍💻 About Me
-I am a **Computer Science graduate (M.Sc.) with an Electronics background**, focused on  
-**Software Testing, Test Automation, and Embedded / Robotics Systems**.
+## 👨‍🔧 Professional Profile
+I am a **Computer Science (M.Sc.) graduate with an Electronics background**, focused on  
+**testing, validation, and quality assurance of embedded, robotic, and software systems**.
 
-I enjoy breaking systems, validating behavior, and building **well-tested, reproducible engineering solutions** — from APIs and web apps to sensors and microcontrollers.
-
----
-
-## 🧪 Core Skills
-- **Software Testing:** Manual Testing, Test Case Design, Bug Reporting  
-- **Test Automation:** PyTest, Playwright, Selenium (learning)  
-- **API Testing:** REST, Postman, Python (requests)  
-- **Embedded Systems:** ESP32, Arduino, Sensors, Serial/I²C/SPI  
-- **Robotics & Systems:** ROS2, Sensor Fusion, Safety Nodes  
-- **Languages:** Python, C/C++, Bash  
-- **Tools:** Git, GitHub Actions (CI), Linux
+My strength lies in **system-level thinking** — verifying behavior, testing interfaces, validating sensor data, and ensuring reliability across software and hardware boundaries.
 
 ---
 
-## 🚀 Featured Projects
-🔹 **Eye-Adaptive Lens System**  
-Electronically tunable lens system using embedded control & software logic  
-→ Embedded testing, configuration profiles, system validation
+## 🧪 Testing & Validation Skills
+- **Test Engineering:** Test case design, test execution, defect reporting  
+- **Embedded Testing:** ESP32, Arduino, sensors, serial protocols (UART, I²C, SPI)  
+- **Robotics Validation:** ROS2 nodes, sensor fusion, safety monitoring  
+- **Software Testing:** Manual testing, API testing, basic automation  
+- **Test Automation:** PyTest, Playwright (E2E), Python scripting  
+- **CI & Tooling:** Git, GitHub Actions, Linux
 
-🔹 **Sensor Fusion System (ROS2)**  
-IMU + LiDAR sensor nodes with safety monitoring  
-→ Robotics testing mindset, modular architecture
+---
 
-🔹 **QA Portfolio (Ongoing)**  
-- Web E2E tests  
-- API quality checks  
+## 🛠 Technical Stack
+**Languages:** Python, C/C++, Bash  
+**Frameworks & Tools:** ROS2, PyTest, Playwright, Postman  
+**Systems:** Linux, Embedded Linux basics  
+**Domains:** Embedded Systems, Robotics, QA / Validation
+
+---
+
+## 🚀 Featured Engineering Projects
+### 🔹 Eye-Adaptive Lens System
+Electronically tunable embedded system prototype  
+- Embedded control logic  
+- Configuration profiles  
+- System validation & fault handling  
+
+### 🔹 Sensor Fusion System (ROS2)
+IMU + LiDAR sensor integration with safety monitoring  
+- Modular ROS2 architecture  
+- Sensor validation  
+- Safety monitoring node  
+
+### 🔹 QA & Testing Portfolio (Ongoing)
+- API quality checks (Python)  
+- End-to-end system tests  
 - Embedded validation experiments  
-→ Built to demonstrate **real QA skills**, not tutorials
 
 ---
 
-## 🎓 Currently Learning
-- ISTQB Foundation Level (exam-oriented)
-- Advanced Test Automation
-- Embedded & Robotics System Validation
+## 🎓 Currently Improving
+- ISTQB Foundation Level (testing fundamentals)
+- Embedded & Robotics system validation
+- Structured test documentation (German QA standards)
 
 ---
 
 ## 🤝 Open To
-- Junior / Entry-Level **QA & Software Testing roles**
-- Embedded / Robotics testing & validation
-- Internships & trainee positions in Germany / EU
+- Junior **Test Engineer / Validation Engineer** roles  
+- Embedded & Robotics testing positions  
+- Automotive, Industrial, MedTech, R&D environments  
 
 ---
 
 ## 📫 Contact
-📧 Email: asadullahrahoo1998@gmail.com  
+📧 asadullahrahoo1998@gmail.com  
 💼 GitHub: https://github.com/AsadRahu60
