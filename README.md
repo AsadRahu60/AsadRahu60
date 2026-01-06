@@ -12,10 +12,11 @@
 ![Robotics](https://img.shields.io/badge/Robotics-ROS2-purple)
 ![Testing](https://img.shields.io/badge/Software-Testing-red)
 ![QA](https://img.shields.io/badge/Quality-Assurance-critical)
+
+<!-- workflow & environment -->
 ![Linux](https://img.shields.io/badge/Linux-Environment-black)
 ![Git](https://img.shields.io/badge/Git-Version%20Control-orange)
 ![CI](https://img.shields.io/badge/CI-GitHub%20Actions-brightgreen)
-
 ---
 
 ## 👨‍🔧 Professional Profile
@@ -38,7 +39,7 @@ My strength lies in **system-level thinking** — validating behavior, testing i
 
 ## 🚀 Featured Engineering Projects
 🔹 **Eye-Adaptive Lens System**  
-Embedded control & system validation of electronically tunable lenses
+Embedded control & system validation of electronically tunable lenses.
 
 🔹 **Sensor Fusion System (ROS2)**  
 IMU + LiDAR integration with safety monitoring
