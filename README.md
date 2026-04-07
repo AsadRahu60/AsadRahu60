@@ -68,8 +68,7 @@ Electronically tunable embedded system prototype
 IMU + LiDAR sensor integration with safety monitoring
 - Modular ROS2 architecture · Sensor validation · Safety monitoring node
 
-### 🔹 QA & Testing Portfolio *(Ongoing)*
-- API quality checks (Python) · End-to-end system tests · Embedded validation experiments
+
 
 ---
 
