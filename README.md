@@ -36,7 +36,7 @@ verifying sensor data, and ensuring reliability across software–hardware bound
 ### 🏆 TARA — Automatic Annotation Tool for ReID Dataset *(Master's Thesis)*
 > Production-ready AI desktop application · Universität Passau · 2024-2025
 
-**[🔗 View on GitHub]([(https://github.com/AsadRahu60/Automatic-Annotation-Tool)]**
+**[🔗 View on GitHub](https://github.com/AsadRahu60/Automatic-Annotation-Tool)**
 
 An end-to-end automated annotation pipeline for Person Re-Identification datasets,
 built on top of LabelMe with a full Qt GUI.
