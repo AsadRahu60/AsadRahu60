@@ -92,8 +92,8 @@ IMU + LiDAR sensor integration with safety monitoring
 ---
 
 ## 🎓 Currently Improving
-- ISTQB Foundation Level (testing fundamentals)
 - Embedded & Robotics system validation
+- ISTQB Fundamental System learning
 - Structured test documentation (German QA standards)
 
 ---
